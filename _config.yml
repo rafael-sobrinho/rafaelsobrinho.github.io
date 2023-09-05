@@ -20,7 +20,7 @@ timezone: America/Sao_Paulo
 
 title: Open Code # the main title
 
-tagline: Say something # it will display as the sub-title
+tagline: A good place to read something about what i produce. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A good place to read something about what i produce.
